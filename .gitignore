@@ -1,0 +1,15 @@
+## Build generated
+build/
+DerivedData/
+
+## User settings
+xcuserdata/
+*.pbxuser
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
